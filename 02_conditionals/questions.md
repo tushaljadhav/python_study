@@ -10,10 +10,7 @@ Classify a person's age group: Child (< 13), Teenager (13–19), Adult (20–59)
 <details>
 <summary>2. Movie Ticket Pricing</summary>
 
-Problem: Movie tickets are priced based on age:
-- Child (< 12): ₹150  
-- Adult (13–59): ₹250  
-- Senior (60+): ₹200  
+problem: movie ticket price based on age: 12$ for adults (18 and over),$8 for children (under 18). Everyone gets a $2 discount on wednesday.
 
 </details>
 
