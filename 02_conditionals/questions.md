@@ -1,0 +1,92 @@
+# questions on conditionals
+
+<details>
+<summary>1. Age Group Categorization</summary>
+
+Classify a person's age group: Child (< 13), Teenager (13–19), Adult (20–59), Senior (60+).
+
+</details>
+
+<details>
+<summary>2. Movie Ticket Pricing</summary>
+
+Problem: Movie tickets are priced based on age:
+- Child (< 12): ₹150  
+- Adult (13–59): ₹250  
+- Senior (60+): ₹200  
+
+</details>
+
+<details>
+<summary>3. Grade Calculator</summary>
+
+Given marks, determine:
+A (≥90), B (80–89), C (70–79), D (60–69), F (<60).
+
+</details>
+
+<details>
+<summary>4. Fruit Ripeness Checker</summary>
+
+Check fruit ripeness based on color:
+- Green → Unripe  
+- Yellow → Ripe  
+- Brown → Overripe  
+
+</details>
+
+<details>
+<summary>5. Weather Activity Suggestion</summary>
+
+Suggest activity based on weather:
+- Sunny → Go outside  
+- Rainy → Use umbrella  
+- Cold → Wear jacket  
+
+</details>
+
+<details>
+<summary>6. Transportation Mode Selection</summary>
+
+Choose transportation based on distance:
+- < 2 km → Walk  
+- 2–10 km → Bike  
+- 10+ km → Car/Bus  
+
+</details>
+
+<details>
+<summary>7. Coffee Customization</summary>
+
+Select options:  
+Hot/Cold → Milk/Black → Sugar/No Sugar.
+
+</details>
+
+<details>
+<summary>8. Password Strength Checker</summary>
+
+Check password strength:
+- Weak (< 6 chars)  
+- Medium (6–10 chars)  
+- Strong (10+ chars + special chars)  
+
+</details>
+
+<details>
+<summary>9. Leap Year Checker</summary>
+
+Year % 4 == 0 → Leap Year (with century rule).  
+Else → Not Leap Year.
+
+</details>
+
+<details>
+<summary>10. Pet Food Recommendation</summary>
+
+Recommend food based on pet:
+- Dog → Pedigree  
+- Cat → Whiskas  
+- Fish → Flakes  
+
+</details>
