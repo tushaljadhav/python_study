@@ -24,12 +24,7 @@ A (≥90), B (80–89), C (70–79), D (60–69), F (<60).
 
 <details>
 <summary>4. Fruit Ripeness Checker</summary>
-
-Check fruit ripeness based on color:
-- Green → Unripe  
-- Yellow → Ripe  
-- Brown → Overripe  
-
+Problem: determine if a fruit is ripe , overripe or unripe based on color (e.g., banana: yellow = ripe, green = unripe, brown = overripe).
 </details>
 
 <details>
