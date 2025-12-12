@@ -67,17 +67,13 @@ Check password strength:
 <details>
 <summary>9. Leap Year Checker</summary>
 
-Year % 4 == 0 → Leap Year (with century rule).  
-Else → Not Leap Year.
+Problem : Determine if a year . (leap year are divided by 4 , but not by 100 usless also division by 400).
 
 </details>
 
 <details>
 <summary>10. Pet Food Recommendation</summary>
 
-Recommend food based on pet:
-- Dog → Pedigree  
-- Cat → Whiskas  
-- Fish → Flakes  
+Problem:Recommend a type of pet food based on pets species and age (e.g.,Dog:<2 years - Puppy food , Cat:> 5 years - Senior cat food).
 
 </details>
