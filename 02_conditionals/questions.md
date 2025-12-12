@@ -50,8 +50,7 @@ Choose transportation based on distance:
 <details>
 <summary>7. Coffee Customization</summary>
 
-Select options:  
-Hot/Cold → Milk/Black → Sugar/No Sugar.
+Problem: Customize a coffee order : "Small" , "Medium" , or "Large" with an option for "Extra shot" of espresso.
 
 </details>
 
